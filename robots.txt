@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build.py
+Disallow: /README.md
+
+Sitemap: https://www.antalyamodernmermer.com.tr/sitemap.xml
