@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build.py
+Disallow: /README.md
+
+Sitemap: https://modernmermergranit07.github.io/antalyamodernmermergranit/sitemap.xml
